@@ -59,7 +59,7 @@ WHERE
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
-![Top paying roles](https://github.com/JavadovSaid/SQL_for_Data_Analysis/blob/main/archive/sql2.png?raw=true)
+![Top paying roles](https://github.com/JavadovSaid/SQL_for_Data_Analysis/blob/main/SQL_data_analyzing/archive/sql2.png)
 
 ### 2. In-Demand Skills for Data Science role:
 
@@ -98,7 +98,7 @@ INNER JOIN skills_dim ON
     skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC;
 ```
-![Most demanded skills for Data Science](https://github.com/JavadovSaid/SQL_for_Data_analysis/blob/main/archive/sql4.png?raw=true)
+![Most demanded skills for Data Science](https://github.com/JavadovSaid/SQL_for_Data_Analysis/blob/main/SQL_data_analyzing/archive/sql4.png)
 
 ### 3. Salary Trends by Skills:
 
