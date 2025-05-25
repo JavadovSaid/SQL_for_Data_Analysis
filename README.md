@@ -26,8 +26,3 @@ Using **SQL queries**, we extract job market data to provide **actionable insigh
 - **Most in-demand skills based on job postings**  
 - **Salary analysis by skillset**  
 
-## 🚀 Get Started  
-
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
